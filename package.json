@@ -1,0 +1,63 @@
+{
+  "name": "open-authenticator-app",
+  "version": "0.0.1",
+  "description": "An open authenticator application.",
+  "productName": "Open authenticator",
+  "author": "Vincent Moittie <moittie.vincent@gmail.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "test": "echo \"No test specified\" && exit 0",
+    "serve:android": "quasar dev -m capacitor -T android",
+    "serve:html": "quasar dev",
+    "serve:electron": "quasar dev -m electron",
+    "serve:pwa": "quasar dev -m pwa",
+    "build:android": "quasar build -m capacitor -T android",
+    "build:html": "quasar build",
+    "build:electron": "quasar build -m electron",
+    "build:pwa": "quasar build -m pwa"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.12.5",
+    "axios": "^0.26.0",
+    "bcryptjs": "^2.4.3",
+    "core-js": "^3.21.1",
+    "crypto-js": "^4.1.1",
+    "dexie": "^3.2.1",
+    "otpauth": "^7.0.10",
+    "quasar": "^2.5.5",
+    "vue": "^3.2.31",
+    "vue-i18n": "^9.1.9",
+    "vue-qrcode-reader": "^3.1.0",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "@quasar/app": "^3.3.3",
+    "electron": "^17.0.1",
+    "electron-packager": "^15.4.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-vue": "^8.4.1",
+    "eslint-webpack-plugin": "^3.1.1",
+    "workbox-webpack-plugin": "^6.4.2"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

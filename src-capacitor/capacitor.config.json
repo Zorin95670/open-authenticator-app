@@ -1,0 +1,8 @@
+{
+  "appId": "org.zorin.openauthenticator.app",
+  "appName": "Open authenticator",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "androidScheme": "https"
+}

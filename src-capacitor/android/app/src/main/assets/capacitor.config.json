@@ -1,0 +1,11 @@
+{
+  "appId": "org.zorin.openauthenticator.app",
+  "appName": "Open authenticator",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "androidScheme": "https",
+  "server": {
+    "url": "https://192.168.2.127:8080"
+  }
+}

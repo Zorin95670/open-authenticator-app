@@ -1,0 +1,45 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <path fill="#027be3" stroke-width="0" d="m380.92846,28c-37.78724,31.91457 -90.01626,32.22436 -128.09051,0.9515c-36.61918,30.08843 -86.35252,30.94974 -123.72233,2.5828l-67.19593,75.40444c41.33492,47.22333 41.09467,123.09547 -0.70635,169.99504c-5.54776,16.01243 -8.45537,15.24028 -9.0606,31.36546c-1.42336,38.8227 6.91192,75.03932 33.02066,102.31577c23.32279,24.3655 54.97279,34.69941 85.3751,31.01228c50.76813,2.94334 75.10675,27.61588 85.31933,42.37272c13.79017,-15.76755 35.23516,-41.11569 100.41286,-44.27562c38.90835,-6.30173 52.96898,-16.48217 71.22951,-35.30398c24.57818,-25.67702 33.17228,-58.19177 32.44795,-94.31879c-0.30079,-14.99817 -1.93635,-20.21252 -10.01217,-39.36257c-41.99488,-47.11702 -42.02543,-123.4812 -0.11147,-170.6552l-68.90605,-72.08382l0,-0.00003z" id="svg_40" stroke="#000"/>
+  <g id="svg_3" stroke="null">
+   <g id="svg_4" stroke="null">
+    <path id="svg_5" d="m310.8823,321.60278c-4.68038,-19.1086 -45.41689,-30.43036 -54.88617,-16.10359c-9.45376,-14.33301 -50.19027,-3.01124 -54.87067,16.10359c-6.12171,19.97517 -38.51252,25.46773 -56.49796,15.04996c0,22.58118 30.22885,22.8742 48.93493,24.31435c44.3088,-1.55861 58.31124,-18.01133 62.4337,-25.51761c4.12248,7.51251 18.13267,23.959 62.44146,25.51761c18.72158,-1.44015 48.93493,-1.73318 48.93493,-24.31435c-17.99318,10.41777 -50.37625,4.92521 -56.49022,-15.04996z" fill="#ffffff" stroke="null"/>
+   </g>
+   <g id="svg_21" stroke="null"/>
+   <g id="svg_24" stroke="null"/>
+   <g id="svg_25" stroke="null"/>
+   <g id="svg_26" stroke="null"/>
+   <g id="svg_27" stroke="null"/>
+   <g id="svg_28" stroke="null"/>
+   <g id="svg_29" stroke="null"/>
+   <g id="svg_30" stroke="null"/>
+   <g id="svg_31" stroke="null"/>
+   <g id="svg_32" stroke="null"/>
+   <g id="svg_33" stroke="null"/>
+   <g id="svg_34" stroke="null"/>
+   <g id="svg_35" stroke="null"/>
+   <g id="svg_36" stroke="null"/>
+   <g id="svg_37" stroke="null"/>
+  </g>
+  <path fill="#ffffff" stroke="#000" stroke-width="0" opacity="undefined" d="m141.5,103l227,0l0,53l-227,0l0,-53z" id="svg_41"/>
+  <text style="cursor: move;" fill="#027be3" stroke-width="0" x="146.32605" y="202.38831" id="svg_42" font-size="101" font-family="'Quicksand'" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="#000" transform="matrix(1.04607 0 0 0.692329 -7.75679 29.6581)">* * * *</text>
+  <text fill="#ffffff" stroke="#000" stroke-width="0" x="168.97003" y="255" id="svg_43" font-size="106" font-family="'Epilogue'" text-anchor="start" xml:space="preserve" font-weight="bold">2FA</text>
+ </g>
+
+</svg>

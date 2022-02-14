@@ -1,0 +1,26 @@
+[
+  {
+    "title": "label.link.myTokens.title",
+    "caption": "label.link.myTokens.caption",
+    "icon": "list",
+    "link": "/"
+  },
+  {
+    "title": "label.link.import.title",
+    "caption": "label.link.import.caption",
+    "icon": "download",
+    "link": "/import"
+  },
+  {
+    "title": "label.link.export.title",
+    "caption": "label.link.export.caption",
+    "icon": "upload",
+    "link": "/export"
+  },
+  {
+    "title": "label.link.settings.title",
+    "caption": "label.link.settings.caption",
+    "icon": "settings",
+    "link": "/settings"
+  }
+]
